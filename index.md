@@ -43,6 +43,7 @@ Outis being not only a shortened name form of Odys-seus, but also the Greek word
 
 Some basic goals I hope to accomplish in this class are:
 
+- [x] #739
 - [x] Meeting new people
 - [ ] Learning how to work on big projects
 - [ ] Learning how to work in groups
