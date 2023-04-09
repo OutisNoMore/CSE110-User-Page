@@ -45,10 +45,7 @@ printf("Hello world!\n");
 
 Some basic goals I hope to accomplish in this class are:
 
-
-
-* [x] #739
-* [x] Meeting new people
+- [x] Meeting new people
 - [ ] Learning how to work on big projects
 - [ ] Learning how to work in groups
 - [ ] Learn website development
