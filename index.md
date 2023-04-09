@@ -52,4 +52,4 @@ Some basic goals I hope to accomplish in this class are:
 
 ### Cool Pictures
 
-Finally, if you want to see some very super cool pictures click on [me](./screenshots/screenshots.md)!
+Finally, if you want to see some very super cool pictures click on [me](./screenshots/screenshots)!
