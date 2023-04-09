@@ -24,28 +24,35 @@ Outis being not only a shortened name form of Odys-seus, but also the Greek word
 
 ### Code Stuff!
 
-  Enough literature, let's see some code!
+Enough literature, let's see some code!
 
-  Steps to becoming an expert in new languages:
+Steps to becoming an expert in new languages:
 
-  1. Open GeeksForGeeks
-  2. Look up how to print: `hello world`
-  3. Repeat until you learned all langauges!
+1. Open GeeksForGeeks
+2. Look up how to print: `hello world`
+3. Repeat until you learned all langauges!
 
-  Like so:
-  ```
-  std::cout << "hello world!" << std::endl;
-  print("Hello world!)
-  System.out.println("Hello world!);
-  printf("Hello world!\n");
-  ```
+Like so:
+
+```
+std::cout << "hello world!" << std::endl;
+print("Hello world!)
+System.out.println("Hello world!);
+printf("Hello world!\n");
+```
+
 ### Class Goals
 
 Some basic goals I hope to accomplish in this class are:
 
-- [x] #739
-- [x] Meeting new people
-- [ ] Learning how to work on big projects
+
+
+[x] #739
+
+[x] Meeting new people
+
+ [ ] Learning how to work on big projects
+ 
 - [ ] Learning how to work in groups
 - [ ] Learn website development
 
